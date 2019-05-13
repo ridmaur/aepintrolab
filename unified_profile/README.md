@@ -8,7 +8,7 @@ In this exercise, we'll do a deep dive into the Real-Time Customer Profile and I
 ### Lab Resources
 
 - Adobe Experience Platform: [https://platform.adobe.com](https://platform.adobe.com)
-- BT website: [http://lab12.bt.com](http://lab12.bt.com)
+- BT website: [http://lab04.bt.com](http://lab04.bt.com)
 
 
 ### Story
