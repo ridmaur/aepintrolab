@@ -1,4 +1,4 @@
-## LAB4 - A sneak peek into the Adobe Experience Platform, but now hands on
+## LAB4 - A sneak peek into Adobe Experience Platform, but now hands on
 
 Welcome to the Adobe Experience Platform Overview Lab! In this exercise, the goal is to get a general overview of Adobe Experience Platform. 
 
