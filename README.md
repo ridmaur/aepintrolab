@@ -38,8 +38,7 @@ In this exercise, we'll explore Data Science Workspace in Adobe Experience Platf
 
 
 ---
-![Go Back to All Tech Lab Content](../images/expsuccess.png)
+![Go Back to All Tech Lab Content](./images/expsuccess.png)
 ---
 
-[Go Back to All Tech Lab Content](../README.md)
 
