@@ -2,6 +2,8 @@
 
 Welcome to the Adobe Experience Platform Overview Lab! In this exercise, the goal is to get a general overview of Adobe Experience Platform. 
 
+**Thank you for attending the Adobe Summit Tech Labs for Adobe Experience Platform. If you have feedback or follow-up questions after the Labs, please contact Wouter Van Geluwe - vangeluw@adobe.com directly.**
+
 ### Learning Objectives:
 
 * Ingesting data into Adobe Experience Platform
